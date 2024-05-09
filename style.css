@@ -1,0 +1,48 @@
+
+
+
+
+.Menu{
+    background-color: #A1D2FF;
+    height: 50px;
+    width: 800px;
+    border-radius: 15px;
+
+}
+
+.Nome{
+    text-align: center;
+    color: white;
+}
+
+.lado{
+    font-size: 30px;
+    background-color: #A1D2FF;
+    height: max-content;
+    width: max-content;
+    border-radius: 10px;
+}
+
+.serviço{
+    color: white;
+}
+
+.lista{
+    font-size: 20px;
+    background-color: #A1D2FF;
+    border-radius: 10px;
+    width: max-content;
+}
+
+body{
+    background-color: #eef7ff;
+}
+
+.cachorro{
+    border-radius: 15px;
+}
+
+.sim{
+    align-items: center;
+    background-color: #A1D2FF;
+}
